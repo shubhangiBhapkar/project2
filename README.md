@@ -2,4 +2,4 @@
     this is practice project.
 
 # developer
-    created by shubhangi.
+    created by shubhangi. this is basic project.
